@@ -1,3 +1,6 @@
+/*Copyright 2019 Safayet N Ahmed
+All rights reserved */
+
 #define _GNU_SOURCE
 #include <stdlib.h>
 #include <stdint.h>
